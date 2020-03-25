@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Noy is soooooo funny.\n");
+    printf("Noy and Liran is soooooo funny.\n");
 }
